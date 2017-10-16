@@ -1,0 +1,8 @@
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csprojResolveAssemblyReference.cache
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\bin\Debug\TTSpeech.dll
+C:\Users\s58802\Desktop\ServerTCP\ServerTCP\bin\Debug\TTSpeech.pdb

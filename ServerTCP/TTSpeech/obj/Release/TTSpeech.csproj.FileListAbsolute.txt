@@ -1,0 +1,4 @@
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\bin\Release\TTSpeech.dll
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\bin\Release\TTSpeech.pdb
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\obj\Release\TTSpeech.dll
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\obj\Release\TTSpeech.pdb

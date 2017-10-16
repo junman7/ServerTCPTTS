@@ -1,0 +1,4 @@
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\bin\Debug\TTSpeech.dll
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\bin\Debug\TTSpeech.pdb
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\obj\Debug\TTSpeech.dll
+C:\Users\s58802\Desktop\ServerTCP\TTSpeech\obj\Debug\TTSpeech.pdb
